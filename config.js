@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Yay!",
+        message: "Heyyyy my valintine i love you veryy much yr cant believe this valintine our rs would be 7 month old and i cant beleive its 7 month already like how tf time passed like this damn and im glad the spark isnt lost we still the same as it was in the 2 month infact sorry im wrong our bond just grew and grew and grew with time lot more fights lot more solutions lot more crying but after all these negatives there a lot more love then before thid valintine i couldnt do anything special cause exams im sorry abt that i hope this is enough and atlast I LOVE YOUUU 💞💞❤️🌹",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
