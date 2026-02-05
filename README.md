@@ -46,7 +46,7 @@ Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
 valentineName: "Jade"                    // Your Valentine's name
-pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
+pageTitle: "Samridhi Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
@@ -84,7 +84,7 @@ loveMessages: {
 // Final Celebration
 celebration: {
     title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    message: "Heyyyy my valintine i love you veryy much yr cant believe this valintine our rs would be 7 month old and i cant beleive its 7 month already like how tf time passed like this damn and im glad the spark isnt lost we still the same as it was in the 2 month infact sorry im wrong our bond just grew and grew and grew with time lot more fights lot more solutions lot more crying but after all these negatives there a lot more love then before thid valintine i couldnt do anything special cause exams im sorry abt that i hope this is enough and atlast I LOVE YOUUU 💞💞❤️🌹",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 
