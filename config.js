@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay!",
-        message: "Heyyyy my valintine i love you veryy much yr cant believe this valintine our rs would be 7 month old and i cant beleive its 7 month already like how tf time passed like this damn and im glad the spark isnt lost we still the same as it was in the 2 month infact sorry im wrong our bond just grew and grew and grew with time lot more fights lot more solutions lot more crying but after all these negatives there a lot more love then before thid valintine i couldnt do anything special cause exams im sorry abt that i hope this is enough and atlast I LOVE YOUUU ",
+        message: "Happyyyy valentineess dayyyyyy SAMRIDHIIII 🫶✨️🌹💝. Only been 7 months but never lost the spark still the same we were like before 5 months. These last months haave been full of laughter the most prettiest of ones i have ever experienced🤞🤌💞. I love the way you are the way u laugh smile you eyes the spark ✨️ the hairs damn ✨️. I love the way u walk smile talk your clumsyness i absolutely love everything abt you. There have been a little ups and downs but we made it through like damn lesss gooo girl more laughing loving giggling smilling just getting crazy and crazy day by day. Just wishing our relation gtows and grows cheering for eachother at every moment. And endless thankyou to you yr u have been a comfort zone for me like fr girl. I LOVEE YOUUUU SAMRIDHIIII 🧿🧿✨️💞🌹💝🫶❤️💗💐🌟 ",
         emojis: "🎁💖🤗💝💋❤️💕"  
     },
 
