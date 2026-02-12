@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yay!",
         message: "Happyyyy valentineess dayyyyyy SAMRIDHIIII 🫶✨️🌹💝. Only been 7 months but never lost the spark still the same we were like before 5 months. These last months haave been full of laughter the most prettiest of ones i have ever experienced🤞🤌💞. I love the way you are the way u laugh smile your eyes the spark ✨️ the hairs damn ✨️. I love the way u walk smile talk your clumsyness i absolutely love everything abt you. There have been a little ups and downs but we made it through like damn lesss gooo girl more laughing loving giggling smilling just getting crazy and crazy day by day. Just wishing our relation grows and grows cheering for eachother at every moment. And endless thankyou to you yr u have been a comfort zone for me like fr girl. I LOVEE YOUUUU SAMRIDHIIII 🧿🧿✨️💞🌹💝🫶❤️💗💐🌟 ",
-        emojis: "🎁💖🤗💝💋❤️💕"  
+        emojis: "if dreaming is the only way to be with you i'll never open my eyes"  
     },
 
     // Color scheme for the website
